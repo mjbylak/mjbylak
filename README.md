@@ -208,17 +208,8 @@
 
 
 
-<!--START_SECTION:activity-->
-<!--
-1. 🗣 Commented on [#854](https://github.com/nextcord/nextcord/issues/854) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-2. 🎉 Merged PR [#72](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/72) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. 💪 Opened PR [#72](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/72) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🎉 Merged PR [#71](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/71) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 💪 Opened PR [#71](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/71) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
--->
-    <!--END_SECTION:activity-->
-    </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+-->
