@@ -16,6 +16,8 @@
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 -->
+
+
 <p align="center">
   <a href="https://github.com/mjbylak?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mjbylak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -43,9 +45,11 @@
 </p>
 -->
 
+
 <p align="left">
   <a href="https://github.com/mjbylak?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
 
 <!--
 ## 📕 Top projects I've contributed to
@@ -198,13 +202,16 @@
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
-<!--START_SECTION:activity-->
 
+
+<!--START_SECTION:activity-->
+<!--
 1. 🗣 Commented on [#854](https://github.com/nextcord/nextcord/issues/854) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
 2. 🎉 Merged PR [#72](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/72) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 3. 💪 Opened PR [#72](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/72) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 4. 🎉 Merged PR [#71](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/71) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 5. 💪 Opened PR [#71](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/71) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+-->
     <!--END_SECTION:activity-->
     </details>
 
